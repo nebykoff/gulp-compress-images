@@ -20,6 +20,6 @@
     "imagemin-jpegoptim": "^6.0.0",
     "imagemin-jpegtran": "^6.0.0",
     "imagemin-pngquant": "^7.0.0",
-    "through2": "^3.0.0"
+    "through2": "^3.0.1"
   }
 }
